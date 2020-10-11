@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\bin\Debug\WindowsForms_Laboratorio_OswaldoCHINO.exe.config
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\bin\Debug\WindowsForms_Laboratorio_OswaldoCHINO.exe
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\bin\Debug\WindowsForms_Laboratorio_OswaldoCHINO.pdb
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.exe
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.pdb
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.FrmSuma.resources
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.FrmOperaciones1.resources
