@@ -9,3 +9,5 @@ C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\Wi
 C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.pdb
 C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.FrmSuma.resources
 C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.FrmOperaciones1.resources
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.FrmOperaciones2.resources
+C:\Users\Usuario\source\repos\WindowsForms_Laboratorio_OswaldoCHINO\obj\Debug\WindowsForms_Laboratorio_OswaldoCHINO.FrmMayor.resources

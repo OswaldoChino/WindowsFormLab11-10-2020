@@ -47,6 +47,7 @@
             this.txtResultado.Name = "txtResultado";
             this.txtResultado.Size = new System.Drawing.Size(100, 20);
             this.txtResultado.TabIndex = 17;
+            this.txtResultado.TextChanged += new System.EventHandler(this.txtResultado_TextChanged);
             // 
             // txtNumero2
             // 
@@ -55,6 +56,7 @@
             this.txtNumero2.Name = "txtNumero2";
             this.txtNumero2.Size = new System.Drawing.Size(100, 20);
             this.txtNumero2.TabIndex = 16;
+            this.txtNumero2.TextChanged += new System.EventHandler(this.txtNumero2_TextChanged);
             // 
             // txtNumero1
             // 
@@ -63,6 +65,7 @@
             this.txtNumero1.Name = "txtNumero1";
             this.txtNumero1.Size = new System.Drawing.Size(100, 20);
             this.txtNumero1.TabIndex = 15;
+            this.txtNumero1.TextChanged += new System.EventHandler(this.txtNumero1_TextChanged);
             // 
             // btnLimpiar
             // 
@@ -92,6 +95,7 @@
             this.label4.Size = new System.Drawing.Size(55, 13);
             this.label4.TabIndex = 12;
             this.label4.Text = "Resultado";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label3
             // 
@@ -101,6 +105,7 @@
             this.label3.Size = new System.Drawing.Size(56, 13);
             this.label3.TabIndex = 11;
             this.label3.Text = "Numero 2:";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
             // 
@@ -110,6 +115,7 @@
             this.label2.Size = new System.Drawing.Size(56, 13);
             this.label2.TabIndex = 10;
             this.label2.Text = "Numero 1:";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -121,6 +127,7 @@
             this.label1.Size = new System.Drawing.Size(243, 20);
             this.label1.TabIndex = 9;
             this.label1.Text = "Operaciones de dos numeros";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // lstOperaciones
             // 
@@ -133,6 +140,7 @@
             this.lstOperaciones.Name = "lstOperaciones";
             this.lstOperaciones.Size = new System.Drawing.Size(120, 95);
             this.lstOperaciones.TabIndex = 18;
+            this.lstOperaciones.SelectedIndexChanged += new System.EventHandler(this.lstOperaciones_SelectedIndexChanged);
             // 
             // FrmOperaciones1
             // 

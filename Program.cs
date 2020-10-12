@@ -16,7 +16,7 @@ namespace WindowsForms_Laboratorio_OswaldoCHINO
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmOperaciones1());
+            Application.Run(new FrmMayor());
         }
     }
 }
